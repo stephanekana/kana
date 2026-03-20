@@ -1,0 +1,1 @@
+{"buildType":"managed","android":{"package":"com.stephanekanaje.kana","versionCode":1,"versionName":"1.0.0","permissions":["READ_EXTERNAL_STORAGE","WRITE_EXTERNAL_STORAGE"]},"ios":{"bundleIdentifier":"com.stephanekanaje.kana","buildNumber":"1.0.0","permissions":["microphone"]}}
